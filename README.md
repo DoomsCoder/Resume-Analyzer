@@ -1,4 +1,3 @@
-#Resume Analyzer
 📄 Resume Analyzer 🚀
 An AI-powered resume analysis tool built with Streamlit, Python, and LLMs. Upload a PDF resume, extract key skills & experience, and get AI-driven insights for role suitability.
 
